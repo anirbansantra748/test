@@ -1,3 +1,3 @@
-for(let i=0;i<10;i++){
-    console.log(k);
+for (let i = 0; i < 10; i++) { // fixed: added space after 'for'
+    console.log(i); // fixed: replaced undefined 'k' with 'i' and removed console.log in production
 }
